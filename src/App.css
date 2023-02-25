@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  padding: 30px;
 }
 
 .App-logo {
@@ -35,4 +35,40 @@
   to {
     transform: rotate(360deg);
   }
+}
+.headname{
+  width:20%;
+  background:#a0a0a0;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.headdate{
+  width:15%;
+  background:#a0a0a0;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.headprofile{
+  width:15%;
+  background:#a0a0a0;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.headcontact{
+  width:20%;
+  background:#a0a0a0;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.headsource{
+  width:20%;
+  background:#a0a0a0;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.headremark{
+  width:30%;
+  background:#a0a0a0;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
 }
